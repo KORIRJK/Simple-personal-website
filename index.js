@@ -15,9 +15,7 @@ favouriteEdgeStyle("soft")
 
 
 
-////////////////////////////////////
-// IGONE THE CODE BELOW THIS LINE //
-////////////////////////////////////
+
 
 function setProp(prop, value) {
     document.documentElement.style.setProperty(prop, value)
