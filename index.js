@@ -7,10 +7,10 @@ favouriteMovieGenre("military")
 // watermelon, tomato, banana, orange, avocado, blueberry
 favouriteFruit("avocado")
 
-// light, dark
+
 favouriteMode("dark")
 
-// sharp, soft, round
+
 favouriteEdgeStyle("soft")
 
 
