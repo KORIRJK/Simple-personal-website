@@ -1,7 +1,3 @@
-
-
-
-
 favouriteMovieGenre("military")
 
 
