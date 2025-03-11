@@ -1,9 +1,5 @@
 favouriteMovieGenre("military")
-
-
 favouriteFruit("avocado")
-
-
 favouriteMode("dark")
 
 
