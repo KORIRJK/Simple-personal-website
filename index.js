@@ -3,10 +3,6 @@ favouriteFruit("avocado")
 favouriteMode("dark")
 favouriteEdgeStyle("soft")
 
-
-
-
-
 function setProp(prop, value) {
     document.documentElement.style.setProperty(prop, value)
 }
